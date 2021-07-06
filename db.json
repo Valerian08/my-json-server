@@ -1,1 +1,11 @@
-
+{
+  "prod":[
+    {"pname":"Lifeboy","prize":30,"category":"soap","image":"lifeboy.jpg"},
+    {"pname":"Dettol","prize":35,"category":"soap","image":"dettol.jpg"},
+    {"pname":"Savlon","prize":25,"category":"soap","image":"savlon.jpg"},
+    {"pname":"Colgate","prize":55,"category":"Toothpaste","image":"colgate.jpg"},
+    {"pname":"Pepsodent","prize":60,"category":"Toothpaste","image":"pepsodent.jpg"},
+    {"pname":"Amul","prize":50,"category":"Milk product","image":"amul.jpg"},
+    {"pname":"MotherDairy","prize":45,"category":"Milk product","image":"motherdairy.jpg"}
+  ]
+}
